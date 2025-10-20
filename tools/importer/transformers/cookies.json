@@ -1,0 +1,17 @@
+[
+    { "name": "_aid", "value": "73b79a54-670c-4a32-ad10-0844b6417f63" },
+    { "name": "_gcl_au", "value": "1.1.1663271803.1757509202" },
+    { "name": "ac_client_user_id", "value": "127cc1ee-d23d-49d2-9f85-26f9c7c19218" },
+    { "name": "aid", "value": "clu4gfor-yp2q-oh9o-jrwv-2lir7agxbs0y5" },
+    { "name": "ConsentExpiryHash", "value": "VHOCl4Sza1lsglaArmk=" },
+    { "name": "COOKIE_SUPPORT", "value": "true" },
+    { "name": "GA4_ga", "value": "GA1.1.clu4gfor-yp2q-oh9o-jrwv-2lir7agxbs0y5" },
+    { "name": "GA4_ga_1W9RBHJPJ70", "value": "GS2.1st760964586$s0t9$s1$t760964692$j55$i0$h1061917702" },
+    { "name": "GA4_ga_1W9RBHJPJ70", "value": "deleted" },
+    { "name": "GUEST_LANGUAGE_ID", "value": "cs_CZ" },
+    { "name": "JSESSIONID", "value": "37EDBE5DB94F3B2AEB2BDB0F09412D2A.node1" },
+    { "name": "LFR_SESSION_STATE_2040230", "value": "1760964692564" },
+    { "name": "opt_sync", "value": "Sat, 17 Oct 2026 18:31:46 GMT" },
+    { "name": "OptanonAlertBoxClosed", "value": "Mon, 20 Oct 2025 12:51:32 GMT" },
+    { "name": "OptanonConsent", "value": "isGpcEnabled=0&datestamp=Mon+Oct+20+2025+08%3A51%3A32+GMT" }
+  ]
