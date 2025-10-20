@@ -1,7 +1,7 @@
 {
     "browserOptions": {
-      "pageLoadTimeout": 40000,
-      "enableJavascript": false,
+      "pageLoadTimeout": 60000,
+      "enableJavascript": true,
       "scrollToBottom": true
     }
   }
