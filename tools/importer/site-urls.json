@@ -45,12 +45,6 @@
       "id": "bf076d0ba3ea84cf32b5a85e1fb8bf2964b4b778"
     },
     {
-      "url": "https://poliklinika.skoda-auto.cz/clinical-psychology-and-psychiatry",
-      "source": "MANUAL",
-      "targetPath": "/clinical-psychology-and-psychiatry",
-      "id": "a9db8b174eff70eb1c8ae44bc83cac0f0ce726ee"
-    },
-    {
       "url": "https://poliklinika.skoda-auto.cz/collection-ambulance",
       "source": "MANUAL",
       "targetPath": "/collection-ambulance",
@@ -195,12 +189,6 @@
       "id": "8c83d2e541c532cb3024cd1d32f7826466b51d08"
     },
     {
-      "url": "https://poliklinika.skoda-auto.cz/galerie-2024",
-      "source": "MANUAL",
-      "targetPath": "/galerie-2024",
-      "id": "2deb100e7be02fc048bd5c6ea51d62c08691aa09"
-    },
-    {
       "url": "https://poliklinika.skoda-auto.cz/galerie-2025",
       "source": "MANUAL",
       "targetPath": "/galerie-2025",
@@ -229,12 +217,6 @@
       "source": "MANUAL",
       "targetPath": "/internal-medicine",
       "id": "a2b7994b23a50cacaf8ed28cff70254cf601f325"
-    },
-    {
-      "url": "https://poliklinika.skoda-auto.cz/mddr-marie-sladkova-en",
-      "source": "MANUAL",
-      "targetPath": "/mddr-marie-sladkova-en",
-      "id": "2eff10e41555e168eb8d8f5f3ee6aef5db10bc02"
     },
     {
       "url": "https://poliklinika.skoda-auto.cz/mddr-sandra-kocourkova-en",
@@ -325,12 +307,6 @@
       "source": "MANUAL",
       "targetPath": "/mudr-masoud-faal",
       "id": "5ac2e3632a2c176ddaa8207abb72b02ed95b39e1"
-    },
-    {
-      "url": "https://poliklinika.skoda-auto.cz/mudr-petra-zapadlova-en",
-      "source": "MANUAL",
-      "targetPath": "/mudr-petra-zapadlova-en",
-      "id": "4b5c8dbb3c3832a8e53f40fb4227912cc6601d49"
     },
     {
       "url": "https://poliklinika.skoda-auto.cz/mudr-renata-prokesova-en",
@@ -441,12 +417,6 @@
       "id": "9d83cb3452e29e5ebca9ae580707e39a359cb405"
     },
     {
-      "url": "https://poliklinika.skoda-auto.cz/practical-medicine",
-      "source": "MANUAL",
-      "targetPath": "/practical-medicine",
-      "id": "93a386cf79b0ce815750e5e023e655d58367393d"
-    },
-    {
       "url": "https://poliklinika.skoda-auto.cz/practical-medicine-skoda-auto",
       "source": "MANUAL",
       "targetPath": "/practical-medicine-skoda-auto",
@@ -501,12 +471,6 @@
       "id": "94cedbbb07d3337e8f5e6c771ba1fea110d53ab3"
     },
     {
-      "url": "https://poliklinika.skoda-auto.cz/skofit-co-se-nam-povedlo",
-      "source": "MANUAL",
-      "targetPath": "/skofit-co-se-nam-povedlo",
-      "id": "9697f5c26e67ff8327463f9ab95606cddc7934ad"
-    },
-    {
       "url": "https://poliklinika.skoda-auto.cz/skofit-novinky",
       "source": "MANUAL",
       "targetPath": "/skofit-novinky",
@@ -517,12 +481,6 @@
       "source": "MANUAL",
       "targetPath": "/sonography",
       "id": "166ab3dec3da3c1d48a365f60877b0051e527aeb"
-    },
-    {
-      "url": "https://poliklinika.skoda-auto.cz/stomatology",
-      "source": "MANUAL",
-      "targetPath": "/stomatology",
-      "id": "e94c469bffe76ba514762f495ddac736b1f4cfdf"
     },
     {
       "url": "https://poliklinika.skoda-auto.cz/surgery",
@@ -571,12 +529,6 @@
       "source": "MANUAL",
       "targetPath": "/vyhled-v-n",
       "id": "224e61087b631614f5dc703a25e54f5044eb1d91"
-    },
-    {
-      "url": "https://poliklinika.skoda-auto.cz/vyzvy_25",
-      "source": "MANUAL",
-      "targetPath": "/vyzvy-25",
-      "id": "94eee60cb97e44996453b4d07290e8188e197fbe"
     },
     {
       "url": "https://poliklinika.skoda-auto.cz/w/change-of-office-hours-mudr-kralova",
